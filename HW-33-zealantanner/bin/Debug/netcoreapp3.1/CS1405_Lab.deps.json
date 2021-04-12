@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CS1405_Lab/1.0.0": {
+        "runtime": {
+          "CS1405_Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS1405_Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
